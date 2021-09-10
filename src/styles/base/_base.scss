@@ -8,3 +8,11 @@
 .image-gallery-slide {
     transition: all 900ms ease-out 0s !important;
 }
+
+.image-gallery {
+    height: calc(100vh - 3.25rem);
+}
+
+.image-gallery-content .image-gallery-slide .image-gallery-image {
+    max-height: calc(100vh - 3.25rem);
+}
