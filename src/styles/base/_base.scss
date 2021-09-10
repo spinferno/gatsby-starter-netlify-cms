@@ -1,0 +1,10 @@
+.image-gallery-slide .image-gallery-image {
+    width: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+    object-fit: cover;
+}
+
+.image-gallery-slide {
+    transition: all 900ms ease-out 0s !important;
+}
