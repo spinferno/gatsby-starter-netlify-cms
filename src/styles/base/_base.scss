@@ -14,5 +14,6 @@
 }
 
 .image-gallery-content .image-gallery-slide .image-gallery-image {
+    height: calc(100vh - 3.25rem);
     max-height: calc(100vh - 3.25rem);
 }
