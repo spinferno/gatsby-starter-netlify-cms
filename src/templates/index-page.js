@@ -10,19 +10,17 @@ import "./../styles/styles.scss"
 
 const sliderImages = [
   {
-    original: 'https://picsum.photos/id/1018/1000/600/',
-    thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    originalTitle: 'Title',
-    description: 'Description',
+    original: 'https://iili.io/09Ocve.jpg',
+    thumbnail: 'https://iili.io/09Ocve.md.jpg',
+    originalTitle: 'Floating Fire',
+    description: 'Floating Fire',
   },
   {
-    original: 'https://picsum.photos/id/1015/1000/600/',
-    thumbnail: 'https://picsum.photos/id/1015/250/150/',
-  },
-  {
-    original: 'https://picsum.photos/id/1019/1000/600/',
-    thumbnail: 'https://picsum.photos/id/1019/250/150/',
-  },
+    original: 'https://iili.io/09OPat.jpg',
+    thumbnail: 'https://iili.io/09OPat.md.jpg',
+    originalTitle: 'Smoke Lights',
+    description: 'Smoke Lights',
+  }
 ];
 
 export const IndexPageTemplate = ({
