@@ -47,7 +47,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gatsby-plugin-google-gtag": "^4.18.0",
     "prettier": "^2.0.5"
   }
 }
